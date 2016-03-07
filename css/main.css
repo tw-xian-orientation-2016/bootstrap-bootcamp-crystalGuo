@@ -146,3 +146,23 @@ article.container{
   margin-top: 5px;
   padding: 0;
 }
+
+.search{
+  margin-bottom: 15px;
+}
+.search .where{
+  font-size: 1.4em;
+  font-weight: bold;
+}
+.search .year{
+  font-size: 1.3em;
+  opacity: 0.7;
+}
+.search .skill{
+  font-size: 1.6em;
+  font-weight: bold;
+}
+.search .skill{
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
