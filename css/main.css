@@ -215,3 +215,10 @@ article.container{
   font-size: 1.3em;
   font-weight: 600;
 }
+
+.language-skills .skill{
+  font-size: 1.3em;
+  margin: 10px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
